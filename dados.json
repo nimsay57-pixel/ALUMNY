@@ -1,0 +1,10 @@
+[
+  { "titulo": "Falstad Circuit Simulator", "categoria": "sites", "desc": "Simulador de circuitos elétricos direto no navegador.", "url": "https://www.falstad.com/circuit/" },
+  { "titulo": "Tinkercad Circuits", "categoria": "sites", "desc": "Simulação de circuitos e Arduino, com editor visual.", "url": "https://www.tinkercad.com/circuits" },
+  { "titulo": "All About Circuits", "categoria": "sites", "desc": "Tutoriais em texto sobre eletrônica analógica e digital.", "url": "https://www.allaboutcircuits.com/" },
+  { "titulo": "Apostila de Eletrônica Básica", "categoria": "documentos", "desc": "PDF introdutório sobre componentes e leis de circuitos.", "url": "#" },
+  { "titulo": "Datasheet do transistor BC548", "categoria": "documentos", "desc": "Folha de dados oficial do componente.", "url": "#" },
+  { "titulo": "Resumo de Lei de Ohm e Kirchhoff", "categoria": "documentos", "desc": "Material de revisão rápida em PDF.", "url": "#" },
+  { "titulo": "CircuitVerse", "categoria": "jogos", "desc": "Plataforma de simulação de circuitos digitais em formato interativo.", "url": "https://circuitverse.org/" },
+  { "titulo": "Ohm's Law Quiz", "categoria": "jogos", "desc": "Jogo de perguntas para fixar cálculos de tensão, corrente e resistência.", "url": "#" }
+]
