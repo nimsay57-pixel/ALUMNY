@@ -168,7 +168,7 @@ footer{
   padding: 20px;
   text-align: center;
   font-size:0.78rem;
-  color: var (--muted);
+  color: var(--muted);
 }
 
 
