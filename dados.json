@@ -1,10 +1,10 @@
 [
   { "titulo": "Circuitos Combinacionais", "categoria": "sites", "desc": "Apostila sobre circuitos combinacionais", "url": "https://embarcados.com.br/circuitos-combinacionais/" },
   { "titulo": "Portas Lógicas", "categoria": "sites", "desc": "Site explicando o que são as portas lógicas.", "url": "https://www.makerhero.com/blog/o-que-sao-portas-logicas/" },
-  { "titulo": "All About Circuits", "categoria": "sites", "desc": "Tutoriais em texto sobre eletrônica analógica e digital.", "url": "https://www.allaboutcircuits.com/" },
-  { "titulo": "Apostila de Eletrônica Básica", "categoria": "documentos", "desc": "PDF introdutório sobre componentes e leis de circuitos.", "url": "#" },
-  { "titulo": "Datasheet do transistor BC548", "categoria": "documentos", "desc": "Folha de dados oficial do componente.", "url": "#" },
+  { "titulo": "", "categoria": "sites", "desc": "", "url": "" },
+  { "titulo": "Apostila de Eletrônica Básica", "categoria": "documentos", "desc": "PDF introdutório sobre componentes e leis de circuitos.", "url": "" },
+  { "titulo": "", "categoria": "documentos", "desc": "", "url": "" },
   { "titulo": "Resumo de Lei de Ohm e Kirchhoff", "categoria": "documentos", "desc": "Material de revisão rápida em PDF.", "url": "#" },
-  { "titulo": "CircuitVerse", "categoria": "jogos", "desc": "Plataforma de simulação de circuitos digitais em formato interativo.", "url": "https://circuitverse.org/" },
-  { "titulo": "Ohm's Law Quiz", "categoria": "jogos", "desc": "Jogo de perguntas para fixar cálculos de tensão, corrente e resistência.", "url": "#" }
+  { "titulo": "", "categoria": "jogos", "desc": "", "url": "" },
+  { "titulo": "", "categoria": "jogos", "desc": ".", "url": "" }
 ]
