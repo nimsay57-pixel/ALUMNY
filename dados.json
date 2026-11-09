@@ -1,6 +1,6 @@
 [
-  { "titulo": "Falstad Circuit Simulator", "categoria": "sites", "desc": "Simulador de circuitos elétricos direto no navegador.", "url": "https://www.falstad.com/circuit/" },
-  { "titulo": "Tinkercad Circuits", "categoria": "sites", "desc": "Simulação de circuitos e Arduino, com editor visual.", "url": "https://www.tinkercad.com/circuits" },
+  { "titulo": "Circuitos Combinacionais", "categoria": "sites", "desc": "Apostila sobre circuitos combinacionais", "url": "https://embarcados.com.br/circuitos-combinacionais/" },
+  { "titulo": "Portas Lógicas", "categoria": "sites", "desc": "Site explicando o que são as portas lógicas.", "url": "https://www.makerhero.com/blog/o-que-sao-portas-logicas/" },
   { "titulo": "All About Circuits", "categoria": "sites", "desc": "Tutoriais em texto sobre eletrônica analógica e digital.", "url": "https://www.allaboutcircuits.com/" },
   { "titulo": "Apostila de Eletrônica Básica", "categoria": "documentos", "desc": "PDF introdutório sobre componentes e leis de circuitos.", "url": "#" },
   { "titulo": "Datasheet do transistor BC548", "categoria": "documentos", "desc": "Folha de dados oficial do componente.", "url": "#" },
