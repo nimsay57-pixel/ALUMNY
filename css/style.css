@@ -8,13 +8,13 @@
   --muted: #4B564D;
 }
 :root[data-theme="escuro"]{
-  --paper: #c6ffe4;
-  --ink: #9B5DE5;
-  --copper: #7838a9;
-  --circuit: #9B5DE5;
-  --line: #2D6A4F;
+  --paper: #011e15;
+  --ink: #7838a9;
+  --copper: #9B5DE5;
+  --circuit: #7838a9;
+  --line: #0B3D2E;
   --card: #dbffee;
-  --muted: #4B564D;
+  --muted: #E9ECEF;
       }
 
 *{ box-sizing: border-box; }
