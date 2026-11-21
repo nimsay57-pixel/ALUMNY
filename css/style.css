@@ -1,20 +1,20 @@
 :root{
-  --paper: #c3df99;
+  --paper: #c6ffe4;
   --ink: #4f0084;
-  --copper: #358735;
-  --circuit: #7f00b2;
-  --line: #a9e9a4;
-  --card: #cfffd7;
+  --copper: #5A2A82;
+  --circuit: #9B5DE5;
+  --line: #2D6A4F;
+  --card: #dbffee;
   --muted: #4B564D;
 }
 :root[data-theme="escuro"]{
-  --paper: #171B18;
-  --ink: #E7ECE8;
-  --copper: #E0955C;
-  --circuit: #4FAE7C;
-  --line: #333B34;
-  --card: #21261F;
-  --muted: #A7B0A9;
+  --paper: #c6ffe4;
+  --ink: #9B5DE5;
+  --copper: #7838a9;
+  --circuit: #9B5DE5;
+  --line: #2D6A4F;
+  --card: #dbffee;
+  --muted: #4B564D;
       }
 
 *{ box-sizing: border-box; }
