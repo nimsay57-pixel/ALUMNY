@@ -1,10 +1,15 @@
 [
-  { "titulo": "Circuitos Combinacionais", "categoria": "sites", "desc": "Apostila sobre circuitos combinacionais", "url": "https://embarcados.com.br/circuitos-combinacionais/" },
-  { "titulo": "Portas Lógicas", "categoria": "sites", "desc": "Site explicando o que são as portas lógicas.", "url": "https://www.makerhero.com/blog/o-que-sao-portas-logicas/" },
-  { "titulo": "", "categoria": "sites", "desc": "", "url": "" },
-  { "titulo": "Apostila de Eletrônica Básica", "categoria": "documentos", "desc": "PDF introdutório sobre componentes e leis de circuitos.", "url": "" },
+  { "titulo": "Circuitos Combinacionais.", "categoria": "sites", "desc": "Apostila sobre circuitos combinacionais", "url": "https://embarcados.com.br/circuitos-combinacionais/" },
+  { "titulo": "Portas Lógicas.", "categoria": "sites", "desc": "Site explicando o que são as portas lógicas.", "url": "https://www.makerhero.com/blog/o-que-sao-portas-logicas/" },
+  { "titulo": "Exemplificação de Números Binários.", "categoria": "sites", "desc": "", "url": "https://www.todamateria.com.br/numeros-binarios/ " },
+  { "titulo": "Apostila de com Sistemas de Numeração.", "categoria": "documentos", "desc": "PDF ", "url": "https://www.inf.ufsc.br/~bosco.sobral/extensao/sistemas-de-numeracao.pdf " },
+  { "titulo": "Curso no YouTube sobre Eletrônica Digital.", "categoria": "sites", "desc": "", "url": "https://www.youtube.com/playlist?list=PLmzMThftjYfimsFjce65TWkI6XYLAEBGb" },
   { "titulo": "", "categoria": "documentos", "desc": "", "url": "" },
-  { "titulo": "Resumo de Lei de Ohm e Kirchhoff", "categoria": "documentos", "desc": "Material de revisão rápida em PDF.", "url": "#" },
+ { "titulo": "Playlist no Youtube sobre Circuitos Elétricos.", "categoria": "sites", "desc": "", "url": "https://www.youtube.com/playlist?list=PL1K59X-jJdij0r-2FJ3XdnNNrfRrxGv0D" },
+ { "titulo": "Aplicativo com Curso de Eletrônica Digital.", "categoria": "sites", "desc": "", "url": "https://cursa.app/pt/curso-gratuito/eletronica-digital-bihd" },
+  { "titulo": "", "categoria": "jogos", "desc": "", "url": "" },
+  { "titulo": "", "categoria": "jogos", "desc": "", "url": "" },
+  { "titulo": "", "categoria": "jogos", "desc": "", "url": "" },
   { "titulo": "", "categoria": "jogos", "desc": "", "url": "" },
   { "titulo": "", "categoria": "jogos", "desc": ".", "url": "" }
 ]
