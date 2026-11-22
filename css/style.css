@@ -53,8 +53,9 @@ h1{
 
 header p{
   margin:0;
-  color: var(--muted);
-  font-size:0.75rem;
+  color:#cfd8d3;
+  font-size:1.2rem;
+  line-height:1.2;
   max-width:55ch;
   font-family: "VT323", monospace;
 }
