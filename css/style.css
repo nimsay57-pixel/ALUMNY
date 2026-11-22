@@ -147,8 +147,8 @@ main{
 }
 
 .item strong{
-  display:block;
-  font-size:0.95rem;
+  font-size:0.7rem;
+  line-height: 1.6;
   margin-bottom:3px;
 }
 
