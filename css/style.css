@@ -1,20 +1,20 @@
 :root{
   --paper: #c6ffe4;
-  --ink: #4f0084;
-  --copper: #5A2A82;
+  --ink: #9B5DE5;
+  --copper: #7838a9;
   --circuit: #9B5DE5;
   --line: #2D6A4F;
   --card: #dbffee;
   --muted: #4B564D;
 }
 :root[data-theme="escuro"]{
-  --paper: #011e15;
-  --ink: #7838a9;
+  --paper:#0B2B2B;
+  --ink: #D8B4FE;
   --copper: #9B5DE5;
-  --circuit: #7838a9;
-  --line: #0B3D2E;
+  --circuit: #04140F;
+  --line: #04140F;
   --card: #dbffee;
-  --muted: #7A8F7F;
+  --muted: #8a948e;
       }
 
 *{ box-sizing: border-box; }
@@ -24,7 +24,7 @@ body {
   margin:0;
   background:var(--paper);
   color:var(--ink);
-  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  font-family:"Press Start 2P", system-ui; 
   line-height:1;
 }
 
@@ -45,15 +45,15 @@ header::before{
 
 h1{
   margin:0 0 4px;
-  font-size: 1.6rem;
-  letter-spacing: -0.01em;
+  font-size: 1.5rem;
+  letter-spacing: 0.05em;
 }
 
 header p{
   margin:0;
   color: var(--muted);
-  font-size:0.95rem;
-  max-width:60ch;
+  font-size:0.75rem;
+  max-width:55ch;
 }
 
 .controls{
@@ -89,7 +89,7 @@ header p{
   background:var(--card);
   border-radius:6px;
   font-size:0.85rem;
-  font-family: "Consolas", monospace;
+  font-family: "VT323", monospace;
   letter-spacing:0.02em;
   color:var(--ink);
   cursor:pointer;
@@ -112,7 +112,7 @@ main{
 }
 
 .grupo h2{
-  font-family:"Consolas", monospace;
+  font-family:"VT323", monospace;
   font-size:0.8rem;
   color:var(--circuit);
   margin: 0 0 10px;
@@ -168,7 +168,9 @@ footer{
   padding: 20px;
   text-align: center;
   font-size:0.78rem;
-  color: var(--muted);
+  color: var (--muted);
 }
-
-
+input,
+input::placeholder {
+  font-family: "VT323", monospace;
+}
