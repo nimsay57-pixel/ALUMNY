@@ -14,7 +14,7 @@
   --circuit: #04140F;
   --line: #04140F;
   --card: #dbffee;
-  --muted: #8a948e;
+  --muted: #1F6B4F;
       }
 
 *{ box-sizing: border-box; }
@@ -24,7 +24,7 @@ body {
   margin:0;
   background:var(--paper);
   color:var(--ink);
-  font-family:"Press Start 2P", system-ui; 
+  font-family: "VT323", monospace;
   line-height:1;
 }
 
@@ -32,6 +32,7 @@ header{
   padding: 32px 20px 24px;
   border-bottom: 2px solid var(--circuit);
   position: relative;
+  
 }
 
 header::before{
@@ -47,6 +48,7 @@ h1{
   margin:0 0 4px;
   font-size: 1.5rem;
   letter-spacing: 0.05em;
+  font-family: "Press Start 2P", monospace;
 }
 
 header p{
@@ -54,6 +56,7 @@ header p{
   color: var(--muted);
   font-size:0.75rem;
   max-width:55ch;
+  font-family: "VT323", monospace;
 }
 
 .controls{
@@ -114,7 +117,7 @@ main{
 .grupo h2{
   font-family:"VT323", monospace;
   font-size:0.8rem;
-  color:var(--circuit);
+  color:var(--ink);
   margin: 0 0 10px;
   padding-bottom:6px;
   border-bottom:1px dashed var(--line);
@@ -131,14 +134,14 @@ main{
 }
 
 .item{
-  background:var(--card);
+   background:var(--card);
   border:1px solid var(--line);
   border-left:3px solid var(--copper);
   border-radius:4px;
   padding:12px 14px;
   text-decoration:none;
-  color:var(--ink);
   display:block;
+  font-family:"VT323", monospace;
   transition: border-color .15s ease;
 }
 
@@ -147,14 +150,20 @@ main{
 }
 
 .item strong{
-  font-size:0.7rem;
-  line-height: 1.6;
-  margin-bottom:3px;
+  display:block;
+  font-family:"VT323", monospace;
+  font-size:1.3rem;
+  line-height:1.2;
+  margin-bottom:4px;
+  color:#4A1C6D;
 }
 
 .item span{
-  font-size:0.82rem;
-  color: var(--muted);
+  display:block;
+  font-family:"VT323", monospace;
+  font-size:1.1rem;
+  line-height:1.2;
+  color:#4B564D;
 }
 
 .vazio{
