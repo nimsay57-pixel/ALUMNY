@@ -5,7 +5,7 @@
   --circuit: #9B5DE5;
   --line: #2D6A4F;
   --card: #dbffee;
-  --muted: #1F6B4F;
+  --muted: #5B3A7A;
 }
 :root[data-theme="escuro"]{
   --paper:#0B2B2B;
@@ -53,11 +53,14 @@ h1{
 
 header p{
   margin:0;
-  color:#cfd8d3;
+  color:var(--muted);
   font-size:1.2rem;
   line-height:1.2;
   max-width:55ch;
   font-family: "VT323", monospace;
+  :root[data-theme="escuro"] header p{
+  color:var(--ink);
+}
 }
 
 .controls{
