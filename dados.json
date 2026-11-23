@@ -1,15 +1,16 @@
 [
-  { "titulo": "Circuitos Combinacionais.", "categoria": "sites", "desc": "Apostila sobre circuitos combinacionais.", "url": "https://embarcados.com.br/circuitos-combinacionais/" },
-  { "titulo": "Portas Lógicas.", "categoria": "sites", "desc": "Site explicando o que são as portas lógicas.", "url": "https://www.makerhero.com/blog/o-que-sao-portas-logicas/" },
-  { "titulo": "Exemplificação de Números Binários.", "categoria": "sites", "desc": "Site explicando de maneira didática os números binários.", "url": "https://www.todamateria.com.br/numeros-binarios/ " },
-  { "titulo": "Sistemas de Numeração.", "categoria": "documentos", "desc": "Apostila em PDF explicando os Sistemas de Numeração. ", "url": "https://www.inf.ufsc.br/~bosco.sobral/extensao/sistemas-de-numeracao.pdf " },
-  { "titulo": "Curso de Eletrônica Digital.", "categoria": "sites", "desc": "Curso gratuito disponível no Youtube.", "url": "https://www.youtube.com/playlist?list=PLmzMThftjYfimsFjce65TWkI6XYLAEBGb" },
-  { "titulo": "", "categoria": "documentos", "desc": "", "url": "" },
-  { "titulo": "Circuitos Elétricos.", "categoria": "sites", "desc": "Playlist no YouTube com aulas dedicadas a Circuitos Elétricos.", "url": "https://www.youtube.com/playlist?list=PL1K59X-jJdij0r-2FJ3XdnNNrfRrxGv0D" },
-  { "titulo": "Curso de Eletrônica Digital.", "categoria": "sites", "desc": "Curso exclusivamente em aplicativo.", "url": "https://cursa.app/pt/curso-gratuito/eletronica-digital-bihd" },
-  { "titulo": "Jogos Focados em Matemática", "categoria": "jogos", "desc": "Aplicativo lúdico para fortalecer o aprendizado em matemática básica.", "url": "https://play.google.com/store/apps/details?id=com.companyname.MaturaMatematyka&hl=pt_BR" },
+  { "titulo": "Circuitos Combinacionais", "categoria": "sites", "desc": "Site sobre circuitos combinacionais.", "url": "https://embarcados.com.br/circuitos-combinacionais/" },
+  { "titulo": "Portas Lógicas", "categoria": "sites", "desc": "Site explicando o que são as portas lógicas.", "url": "https://www.makerhero.com/blog/o-que-sao-portas-logicas/" },
+  { "titulo": "Exemplificação de Números Binários", "categoria": "sites", "desc": "Site explicando de maneira didática os números binários.", "url": "https://www.todamateria.com.br/numeros-binarios/" },
+  { "titulo": "Curso de Eletrônica Digital(YouTube)", "categoria": "sites", "desc": "Curso gratuito disponível no Youtube.", "url": "https://www.youtube.com/playlist?list=PLmzMThftjYfimsFjce65TWkI6XYLAEBGb" },
+  { "titulo": "Circuitos Elétricos", "categoria": "sites", "desc": "Playlist no YouTube com aulas dedicadas a Circuitos Elétricos.", "url": "https://www.youtube.com/playlist?list=PL1K59X-jJdij0r-2FJ3XdnNNrfRrxGv0D" },
+  { "titulo": "Curso de Eletrônica Digital(Aplicativo)", "categoria": "sites", "desc": "Curso exclusivamente em aplicativo.", "url": "https://cursa.app/pt/curso-gratuito/eletronica-digital-bihd" },
   { "titulo": "Potências base 10", "categoria": "sites", "desc": "Site explicando de maneira didática as potências de base 10.", "url": "https://brasilescola.uol.com.br/amp/matematica/potencias-base-10.htm" },
   { "titulo": "Frações", "categoria": "sites", "desc": "Site explicando operações com frações.", "url": "https://brasilescola.uol.com.br/amp/matematica/fracao-as-operacoes-matematicas.htm" },
   { "titulo": "Produtos Notáveis", "categoria": "sites", "desc": "Site explicando sobre produtos notáveis.", "url": "https://brasilescola.uol.com.br/amp/matematica/produtos-notaveis.htm" },
+
+  { "titulo": "Sistemas de Numeração", "categoria": "documentos", "desc": "Apostila em PDF explicando os Sistemas de Numeração.", "url": "https://www.inf.ufsc.br/~bosco.sobral/extensao/sistemas-de-numeracao.pdf" },
+
+  { "titulo": "Jogos Focados em Matemática", "categoria": "jogos", "desc": "Aplicativo lúdico para fortalecer o aprendizado em matemática básica.", "url": "https://play.google.com/store/apps/details?id=com.companyname.MaturaMatematyka&hl=pt_BR" },
   { "titulo": "Jogo com operações básicas", "categoria": "jogos", "desc": "Jogo para auxiliar a resolução de cálculos mentalmente.", "url": "https://play.google.com/store/apps/details?id=org.nixgame.mathematics&hl=pt_BR" }
 ]
