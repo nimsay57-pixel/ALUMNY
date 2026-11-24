@@ -21,8 +21,8 @@
   { "titulo": "Prática e uso da Protoboard", "categoria": "documentos", "desc": "Apostila em PDF explicando melhor como utilizar a protoboard aulas práticas.", "url": "https://labsdtec.ufam.edu.br/frontend/web/manuais/Super%20Roteiro%20-%20Protoboard.pdf" },
 
   { "titulo": "Jogos Focados em Matemática", "categoria": "jogos", "desc": "Aplicativo lúdico para fortalecer o aprendizado em matemática básica.", "url": "https://play.google.com/store/apps/details?id=com.companyname.MaturaMatematyka&hl=pt_BR" },
-  { "titulo": "Jogo com operações básicas", "categoria": "jogos", "desc": "Jogo para auxiliar a resolução de cálculos mentalmente.", "url": "https://play.google.com/store/apps/details?id=org.nixgame.mathematics&hl=pt_BR" }
+  { "titulo": "Jogo com operações básicas", "categoria": "jogos", "desc": "Jogo para auxiliar a resolução de cálculos mentalmente.", "url": "https://play.google.com/store/apps/details?id=org.nixgame.mathematics&hl=pt_BR" },
   { "titulo": "Jogo de labirinto", "categoria": "jogos", "desc": "Joguinho em forma de labirindo para ajudar na 1º Lei de Ohm.", "url": "https://www.wordwall.net/pt/resource/118444485/primeira-lei-de-ohm?searchQuery=lei+de+ohm" },
-  { "titulo": "Quiz sobre Lei de Ohm", "categoria": "jogos", "desc": "Quiz para ajudar na fixação dos conteúdos de Lei de Ohm e Circuitos.", "url": "https://www.wordwall.net/pt/resource/58945931/lei-de-ohm-e-circuitos?searchQuery=lei+de+ohm" }
-  { "titulo": "FlashCards sobre Lei de Kirchoff", "categoria": "jogos", "desc": "FlashCards para ajudar na fixação dos conteúdos de Lei de Kirchoff.", "url": "https://quizlet.com/1237283228/leis-de-kirchhoff-flash-cards/?funnelUUID=11fa709b-2708-4ddf-98db-206a7dddb431" }
+  { "titulo": "Quiz sobre Lei de Ohm", "categoria": "jogos", "desc": "Quiz para ajudar na fixação dos conteúdos de Lei de Ohm e Circuitos.", "url": "https://www.wordwall.net/pt/resource/58945931/lei-de-ohm-e-circuitos?searchQuery=lei+de+ohm" },
+  { "titulo": "FlashCards sobre Lei de Kirchoff", "categoria": "jogos", "desc": "FlashCards para ajudar na fixação dos conteúdos de Lei de Kirchoff.", "url": "https://quizlet.com/1237283228/leis-de-kirchhoff-flash-cards/?funnelUUID=11fa709b-2708-4ddf-98db-206a7dddb431" },
   
