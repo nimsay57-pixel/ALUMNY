@@ -120,7 +120,7 @@ main{
 
 .grupo h2{
   font-family:"VT323", monospace;
-  font-size:0.8rem;
+  font-size:1.0rem;
   color:var(--ink);
   margin: 0 0 10px;
   padding-bottom:6px;
